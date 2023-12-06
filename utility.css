@@ -1,0 +1,21 @@
+.flex{
+    display: flex;
+}
+.grid{
+    display: grid;
+}
+.align-item-center{
+    align-items: center;
+}
+.justify-content-center{
+    justify-content: center;
+}
+.mt-20{
+    margin-top: 20px;
+}
+.mb-20{
+    margin-bottom: 20px;
+}
+.color{
+    color: white;
+}
